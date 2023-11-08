@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.aeb8f759.css",
+    "main.js": "/Myportfolio/static/js/main.b66b6a3f.js",
+    "static/media/Tea.png": "/Myportfolio/static/media/Tea.3adc713117c0afb15b54.png",
+    "static/media/Todo.png": "/Myportfolio/static/media/Todo.5dee0919e77fcdb46196.png",
+    "static/media/cars.png": "/Myportfolio/static/media/cars.1da21a58eb30146f1fa0.png",
+    "static/media/react.png": "/Myportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Age.png": "/Myportfolio/static/media/Age.2c38e2793f3982d2fcda.png",
+    "static/media/node.png": "/Myportfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/Myportfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html (1).png": "/Myportfolio/static/media/html (1).2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Myportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Myportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Myportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Myportfolio/index.html",
+    "main.aeb8f759.css.map": "/Myportfolio/static/css/main.aeb8f759.css.map",
+    "main.b66b6a3f.js.map": "/Myportfolio/static/js/main.b66b6a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb8f759.css",
+    "static/js/main.b66b6a3f.js"
+  ]
+}
